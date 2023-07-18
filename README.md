@@ -1,9 +1,16 @@
 ## Traditional Ukrainian dishes
 - Varenyky/Pierogi
+- Braised Pork
 - Borscht (Borsch)
   - Sorrel Soup (Shchavel Borsch)
   - Żurek
   - Barszcz czysty czerwony
-- Paska
-- Chicken Kyiv (Kotleta po Kyivsky)
-- Braised Pork
+- Bread
+  - Paska
+  - Bublik
+  - Pampushka
+  - Korovai
+- Desserts
+  - Syrnyky
+  - Kutia
+  - Koliva
