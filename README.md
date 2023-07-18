@@ -6,3 +6,4 @@
   - Barszcz czysty czerwony
 - Paska
 - Chicken Kyiv (Kotleta po Kyivsky)
+- Braised Pork
