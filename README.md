@@ -4,4 +4,5 @@
   - Sorrel Soup (Shchavel Borsch)
   - Żurek
   - Barszcz czysty czerwony
+- Paska
 - Chicken Kyiv (Kotleta po Kyivsky)
