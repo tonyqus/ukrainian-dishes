@@ -1,2 +1,3 @@
-# ukrainian-dishes
-Traditional Ukrainian dishes
+## Traditional Ukrainian dishes
+- Pierogi
+- Borscht (Borsch)
