@@ -1,6 +1,5 @@
 ## Traditional Ukrainian dishes
-- Pierogi
-- Varenyky
+- Varenyky/Pierogi
 - Borscht (Borsch)
   - Sorrel Soup (Shchavel Borsch)
   - Żurek
